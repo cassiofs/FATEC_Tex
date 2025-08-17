@@ -2,7 +2,7 @@
 # Faculty of Technology of Pompéia (FATEC Pompéia), Brazil  
 # Version 1.0.0 – 2025/08/17  
 
-Copyright (C) 2025 – Prof. Dr. Cássio Faria da Silva (FATEC Pompéia)  
+Copyright (C) 2025 – Prof. Dr. Cássio Faria da Silva (FATEC Pompéia) <cassiofs@gmail.com>
 
 Adapted from the **UnBTeX** class developed for the University of Brasília (UnB),  
 by Henrique C. Ferreira <hcferreira@unb.br> (2021–2024).  
